@@ -1,5 +1,5 @@
 streamlit
-opencv-contrib-python
-mediapipe
-numpy
-scikit-learn
+opencv-python-headless==4.8.0.74  # Use the latest stable version
+mediapipe==0.10.0
+numpy==1.24.3
+scikit-learn==1.2.2
